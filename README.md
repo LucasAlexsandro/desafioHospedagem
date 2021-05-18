@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://i.imgur.com/q9sSr0D.png" alt="Get Coffee Design" width="960">
+    <img src="https://i.imgur.com/Lnn09o2.png" alt="Get Coffee Design" width="960">
 
   <h3 align="center">Hospedagem</h3>
  <br />
