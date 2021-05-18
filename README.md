@@ -92,7 +92,7 @@ Imagens disponíveis na pasta `./assets` <br>
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
 Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou marcando nosso perfil @devchallenge!<br>
 
-Design criado por <a href="https://www.linkedin.com/in/lucasalexsandro/">Lucas Alexsandro</a>
+Design e Desafio criado por <a href="https://www.linkedin.com/in/lucasalexsandro/">Lucas Alexsandro</a>
 
 # Comunidade DevChallenge
 
